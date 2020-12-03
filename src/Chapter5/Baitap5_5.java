@@ -24,6 +24,7 @@ public class Baitap5_5 {
             System.out.println();
         }
         for (int i=0;i<n;i++){
+            // vong lap
             for (int j=0;j<m;j++){
 
             }
